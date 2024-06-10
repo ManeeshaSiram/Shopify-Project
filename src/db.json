@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": "6",
+      "product": "Mobile",
+      "company": "Realme",
+      "price": "30008",
+      "category": "Electronics",
+      "description": "The Latest model"
+    },
+    {
+      "id": "7",
+      "product": "Mobile",
+      "company": "Mi",
+      "price": "25000",
+      "category": "Electronics",
+      "description": "The Latest model"
+    },
+    {
+      "id": "8",
+      "product": "Mobile",
+      "company": "Apple",
+      "price": "90000",
+      "category": "electronics",
+      "description": "Latest"
+    },
+    {
+      "id": "9",
+      "product": "Mobile",
+      "company": "Oppo",
+      "price": "90000",
+      "category": "electronics",
+      "description": "Latest"
+    }
+  ]
+}
